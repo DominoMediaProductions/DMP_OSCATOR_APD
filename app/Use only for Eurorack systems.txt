@@ -1,0 +1,5 @@
+/ The DMP OSCATOR ADP is only for use in Eurorack Systems.
+
+The Oscator is a 6hp width instrument may only be use in Euro Rack systems for Modular synths. 
+
+/ DMP 2021©
