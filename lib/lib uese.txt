@@ -1,0 +1,6 @@
+Arduino IDE 1.8.13 
+Adafruit_GFX bibliotheek 1.3.6     https://github.com/adafruit/Adafruit-GFX-Library
+Adafruit_SSD1306.h: Versie 1.2 (november 2018)  https://github.com/wonho-maker/Adafruit_SH1106
+
+
+
