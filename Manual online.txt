@@ -1,0 +1,60 @@
+**********************************
+/ Manual DMP OSCATOR ADP
+/ Copyright© 2021 hardware DMP OSCATOR ADP.
+/ Manual is supplied with the original packaging. 
+/ This manual is also available at https://www.reclamebrochure.nl/winkels/verenadierenartikelen.nl/
+
+**********************************
+
+For use in Eurorack Systems
+
+DMP OSCATOR ADP.
+
+The Oscator from DMP is an oscilloscope you can use for measuring voltage frequency signals. Measurements can be read on a 0.96 ”display. It visualises an indication and measurement of wave signals. Various frequencies and voltage 
+measurements can be set with the push buttons. It is an oscilloscope with a width of 6hp and takes up little space and is an indispensable tool for any eurorack system.
+
+
+Specs
+
+- 1 channel oscilloscope mono
+- Positive and negative measurement
+- 6hp (30 x 128,5 mm)
+- Oled Display 0.96”
+- Time axis and Voltage axis
+- Trigger direction adjustable 
+- Voltage range adjustable from 0.2 - 50V 
+- Time range 50ms - 200ms
+- RMS voltage display indication
+- Frequency display indication 
+- Hold mode
+- Reset button
+- Power use +5 volts
+
+
+Includes power flat cable for eurorack.
+
+
+Instruction manual
+
+
+Use
+
+Connect a mono audio output into the “Input” and the oscilloscope will immediately start measuring. There are 4 buttons. The “Hold” button freezes the screen. The “Up” and “Down” buttons can be used for setting the range for frequency timing  and voltage range adjustment. With the “Select” button you can choose whitch meachure range you want to change.
+
+
+Measuring
+
+At the top of the display you will find the measure range for Voltage, Frequency Timing , Trigger Direction, RMS Voltage indication, Frequency measuring and average. On the left you will find the positive and negative voltage scale measurement.
+
+
+Set schedule  
+
+You can adjust the Voltage, Timing and Trigger by pressing the “Select” button. The underlined values at ​​the top of the display, indicates that it can be adjusted by pressing the “Up” or ”Down” buttons.  Set the range to maximize visibility for a clear and accurate reading.
+
+
+Zero adjustment function  
+
+If the waveform is not exactly at zero, it is possible to calibrate it to its zero point. Press “HOLD” to pause the waveform display, then press “SELECT” to auto-zero. The waveform fits to the zero position and is stored in the memory. 
+
+
+/ DMP 2021©
